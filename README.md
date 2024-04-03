@@ -3,7 +3,7 @@
 
 ## Contract Address
 
-The BARK Token contract is deployed on the Solana Devnet. You can find the contract address [here](https://explorer.solana.com/address/26LtcueLjUVuNUPFBxVA2X3gLtpCD2hqefxnDau9AeFc/transfers?cluster=devnet).
+The BARK Token contract is deployed on the Solana Devnet.
 
 ## Token Details
 
